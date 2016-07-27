@@ -1,0 +1,7 @@
+severity: error
+
+plugin_gems: ['scss_lint_plugin_example']
+
+linters:
+  NoPointerEvents:
+    enabled: true
